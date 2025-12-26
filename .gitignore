@@ -10,5 +10,5 @@ __pycache__/
 .gemini/
 data/raw/*.txt
 data/raw/*.pdf
-data/processed/
-data/cleaned/
+!data/raw/sample.txt
+!data/raw/test_article.txt

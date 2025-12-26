@@ -1,0 +1,1 @@
+This is a short example document used to verify that the AutoDataForge pipeline works end-to-end. It contains a few sentences about data cleaning, summarisation, and quality control. The purpose of this text is purely for testing; the dummy LLM will simply echo the first part of the content.

@@ -1,0 +1,6 @@
+Machine learning is a field of artificial intelligence that focuses on
+building systems that learn from data.
+
+If you need help, contact us at support@example.com or call 9876543210.
+
+It is widely used in healthcare, finance, and autonomous vehicles.

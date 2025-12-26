@@ -1,0 +1,7 @@
+{"type": "summary", "document": "this is a short example document used to verify that the autodataforge pipeline works endtoend. it contains a few sentences about data cleaning, summarisation, and quality control. the purpose of this text is purely for testing the dummy llm will simply echo the first part of the content.", "summary": "The document is an example used to verify the autodataforge pipeline's functionality. It contains information about data cleaning, summarization, and quality control. The purpose of the document is for testing purposes."}
+{"type": "qa", "question": "What is the purpose of this text?", "answer": "The purpose of this text is purely for testing."}
+{"type": "qa", "question": "What does the dummy LLM do with the content?", "answer": "The dummy LLM will simply echo the first part of the content."}
+{"type": "qa", "question": "What is the autodataforge pipeline used for?", "answer": "The autodataforge pipeline is used to verify that it works end-to-end."}
+{"type": "qa", "question": "What is machine learning?", "answer": "Machine learning is a field of artificial intelligence that focuses on building systems that learn from data."}
+{"type": "qa", "question": "What are some common applications of machine learning?", "answer": "Machine learning is widely used in healthcare, finance, and autonomous vehicles."}
+{"type": "qa", "question": "How can I get help with machine learning?", "answer": "You can contact us at supportexample.com or call [PHONE]."}
