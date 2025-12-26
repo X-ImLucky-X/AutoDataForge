@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Project specific
+.gemini/
+data/raw/*.txt
+data/raw/*.pdf
+data/processed/
+data/cleaned/
